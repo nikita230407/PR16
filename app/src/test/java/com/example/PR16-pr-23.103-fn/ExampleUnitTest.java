@@ -1,4 +1,4 @@
-package com.example.pr16_mirzakamilov_pr23103;
+package com.example.PR16-pr-23.103-fn;
 
 import org.junit.Test;
 
